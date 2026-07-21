@@ -1,6 +1,6 @@
 # ZIGULAB landing page concept
 
-첨부된 아임웹 HTML을 바탕으로 정리한 독립 실행형 반응형 웹 시안입니다.
+ZIGULAB을 소개하는 독립 실행형 반응형 랜딩페이지입니다.
 
 ## 확인 방법
 
@@ -10,4 +10,4 @@
 Start-Process .\index.html
 ```
 
-사이트 이미지는 `assets/images` 폴더에서 직접 불러옵니다. 아임웹 이미지 CDN에 의존하지 않습니다.
+사이트 이미지는 저장소의 `assets/images` 폴더에서 직접 관리합니다.
